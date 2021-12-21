@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+
+h1{font-family: 'Inconsolata', monospace;
+font-size: 300;}
+
+
+div{
+    background-color: rgb(11, 23, 92);
+    padding: 30px;
+}
+
+.aliyev{padding-left: 450px;
+   
+}
+
+.bawliq{ padding-right: 100px;
+    
+
+}
+
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    display: ;
+    padding-left: 10px;
+    color: black;
+    }
+
+nav ul{ list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    
+    }
+
+ul li{
+    display: inline;
+    padding-left: 10px;
+    }
+
+nav {background-color:rgb(151, 169, 175)  ;
+padding: 6px;
+flex-direction: column;
+}
+
+section article {font-family:Arial, Helvetica, sans-serif}
+
+.xerite{ width:200px; height: 200px;}
+
+.mmq{ width: 400px; height: 200px;}
+
+footer{ background-color: rgb(11, 23, 92);
+padding: 20px;
+color: white;}
+
+
+*{margin:0% ;}
+
+
